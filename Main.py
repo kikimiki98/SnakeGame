@@ -5,6 +5,7 @@ import keyboard as kb
 score = 0
 lvl = 0
 a=12
+b=12
 
 #game ablakját megcsinálni
 window = t.Screen()
